@@ -14,4 +14,4 @@ Database in MariaDb, which can be installed locally or a docker container can be
 
 Using scalar or swagger you can send a request to manage posts from a blog persisted in mariadb.
 
-For More information about this project, visit the [Weather API Roadmap](https://roadmap.sh/projects/weather-api-wrapper-service)
+For More information about this project, visit the [blogging-platform-api project from roadmap.sh]([https://roadmap.sh/projects/weather-api-wrapper-service](https://roadmap.sh/projects/blogging-platform-api))
